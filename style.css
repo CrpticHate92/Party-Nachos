@@ -1,0 +1,54 @@
+html {
+  background-color: brown;
+}
+
+h1,
+h2 {
+  color: firebrick;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+body {
+  background-color: blanchedalmond;
+  /* border: 2px solid black; */
+  width: 700px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+h1 {
+  padding-left: 235px;
+}
+
+img {
+  padding-left: 145px;
+}
+
+p {
+  padding-left: 215px;
+}
+
+h2 {
+  padding-left: 285px;
+}
+
+ul {
+  padding-left: 265px;
+}
+
+ol {
+  padding-left: 200px;
+}
+
+a {
+  color: firebrick;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+li {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
